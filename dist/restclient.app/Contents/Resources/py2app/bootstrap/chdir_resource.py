@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/py2app/bootstrap/chdir_resource.py

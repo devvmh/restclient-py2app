@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/py2app/bootstrap/virtualenv_site_packages.py

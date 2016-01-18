@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/pip-7.1.2.dist-info/entry_points.txt

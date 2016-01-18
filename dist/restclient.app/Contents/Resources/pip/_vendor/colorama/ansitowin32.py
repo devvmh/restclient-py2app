@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py

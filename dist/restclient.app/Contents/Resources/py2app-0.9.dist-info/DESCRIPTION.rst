@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/py2app-0.9.dist-info/DESCRIPTION.rst

@@ -1,0 +1,1 @@
+/Users/devin/git/restclient/venv/lib/python2.7/site-packages/wxPython_Phoenix-3.0.3.dev1839+4ecd949.dist-info/DESCRIPTION.rst
